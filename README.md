@@ -4,7 +4,7 @@ Finds and returns entry point files in a custom folder
 
 ## Instalation
 ```
-npm install --save-dev @superReal/webpack-glob-entries
+npm install --save-dev git+https://github.com/superReal/webpack-glob-entries.git
 ```
 
 
