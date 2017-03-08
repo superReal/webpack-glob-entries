@@ -1,0 +1,20 @@
+{
+  "name": "webpack-glob-entries",
+  "version": "1.0.0",
+  "description": "Finds and returns entry point files in a custom folder",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/superReal/webpack-glob-entries.git"
+  },
+  "keywords": [
+    "webpack",
+    "glob",
+    "entries"
+  ],
+  "author": "Sergej Müller, superReal GmbH",
+  "homepage": "https://github.com/superReal/webpack-glob-entries",
+  "dependencies": {
+    "glob": "^7.1.1"
+  }
+}
