@@ -1,6 +1,8 @@
 # webpack-glob-entries
 Finds and returns entry point files in a custom folder
 
+## DEPRECATED
+
 ## Instalation
 ```
 npm install --save-dev git+https://github.com/superReal/webpack-glob-entries.git
